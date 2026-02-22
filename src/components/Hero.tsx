@@ -21,8 +21,21 @@ const Hero = () => {
             <p className="my-2 max-w-lg py-6 text-xl leading-relaxed tracking-tight">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam
               similique fugiat amet aut assumenda provident totam, voluptas
-              expedita officia ratione voluptatem.
+              expedita officia ratione voluptatem. Lorem ipsum, dolor sit amet
+              consectetur adipisicing elit. Est, iste soluta? Lorem ipsum dolor
+              sit amet consectetur adipisicing elit. Doloremque, fugit facilis
+              ducimus dolore cupiditate fugiat atque quae. Labore, possimus
+              beatae!
             </p>
+            <a
+              href="/resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              download
+              className="bg-white  rounded-full p-4  text-stone-800 mb-10"
+            >
+              Download Resume
+            </a>
           </div>
         </div>
       </div>
