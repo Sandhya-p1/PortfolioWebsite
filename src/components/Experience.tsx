@@ -7,7 +7,7 @@ const Experience = () => {
           <p className="mb-2 text-sm text-stone-400">2024-2025</p>
         </div>
         <div className="w-full max-w-xl lg:w-3/4">
-          <h3 className="mb-2 font-semibold">
+          <h3 className="mb-2  text-xl font-semibold">
             Web Developer -{" "}
             <span className="text-sm text-stone-500">Nepal Design Tech</span>
           </h3>
@@ -41,7 +41,7 @@ const Experience = () => {
           <p className="mb-2 text-sm text-stone-400">2024-2025</p>
         </div>
         <div className="w-full max-w-xl lg:w-3/4">
-          <h3 className="mb-2 font-semibold">
+          <h3 className="mb-2 text-xl font-semibold">
             Web Developer -{" "}
             <span className="text-sm text-stone-500">Nepal Design Tech</span>
           </h3>
@@ -75,7 +75,7 @@ const Experience = () => {
           <p className="mb-2 text-sm text-stone-400">2024-2025</p>
         </div>
         <div className="w-full max-w-xl lg:w-3/4">
-          <h3 className="mb-2 font-semibold">
+          <h3 className="mb-2 text-xl font-semibold">
             Web Developer -{" "}
             <span className="text-sm text-stone-500">Nepal Design Tech</span>
           </h3>
