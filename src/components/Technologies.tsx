@@ -1,11 +1,8 @@
-import { DiJavascript, DiRedis } from "react-icons/di";
-import { FaGithub, FaNodeJs } from "react-icons/fa";
+import { DiJavascript } from "react-icons/di";
 import { RiReactjsLine, RiTailwindCssFill } from "react-icons/ri";
-import { SiMongodb, SiReactquery, SiTypescript } from "react-icons/si";
-import { TbBrandNextjs } from "react-icons/tb";
+import { SiMongodb, SiReactquery } from "react-icons/si";
 import { motion } from "framer-motion";
 import { BiLogoTypescript } from "react-icons/bi";
-import { GiThumbDown } from "react-icons/gi";
 import { BsGithub } from "react-icons/bs";
 
 const iconVariants = {
