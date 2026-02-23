@@ -17,28 +17,12 @@ const Navbar = () => {
           <FaLinkedin />{" "}
         </a>
         <a
-          href="https://www.linkedin.com/in/sandhya-pandey10/"
+          href="https://github.com/Sandhya-p1"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="GitHub"
         >
           <FaGithub />{" "}
-        </a>
-        <a
-          href="https://www.linkedin.com/in/sandhya-pandey10/"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="Instagram"
-        >
-          <FaInstagram />{" "}
-        </a>
-        <a
-          href="https://www.linkedin.com/in/sandhya-pandey10/"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="Twitter"
-        >
-          <FaTwitter />{" "}
         </a>
       </div>
     </nav>
